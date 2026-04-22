@@ -1,0 +1,17 @@
+DOM(Document Object Model): a representation of an HTML document created by the browser which allows JS interact with
+* Browser receive the HTML file
+* Browser reads HTML line by line
+* Browser converts HTML into object
+* Browser organizes the object into a structure
+* That structure becomes DOM 
+
+.document 
+  .HTML
+     .body
+        .h1
+        .p
+Every part of the DOM is a node 
+
+1. Parent: An element that contains another element
+2. Child: An element inside another element
+3. Sibling: Element at the same level
