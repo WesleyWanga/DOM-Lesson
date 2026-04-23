@@ -15,3 +15,18 @@ Every part of the DOM is a node
 1. Parent: An element that contains another element
 2. Child: An element inside another element
 3. Sibling: Element at the same level
+
+DOM selection 
+==========
+1. Selecting by tagname 
+ex: h1,p,li,img,ul
+2. Selecting by classname
+3. Selecting by id 
+4. using querySelector (selects the first matching elements)
+5. using querySelectorAll (select all Elements)
+
+DOM manipulation 
+==================
+1. Changing text content => use textContent work with plain text
+2. innerHTML 
+3. innerText 
