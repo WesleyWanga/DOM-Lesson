@@ -29,4 +29,21 @@ DOM manipulation
 ==================
 1. Changing text content => use textContent work with plain text
 2. innerHTML 
-3. innerText 
+3. innerText
+
+DOM Events 
+===========
+is an action that happens in the browser and JS to respond it 
+* user clicks a button 
+* user types in an input 
+* user submits a form
+* the page finishes loading 
+* moving a mouse over an element 
+
+Basic Event flow
+======================
+step1: select an element
+step2: Attach an event listener
+step3: write what should happen once the action happen
+
+element.addEventListener("eventType,callbackfunction()")
