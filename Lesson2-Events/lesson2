@@ -1,0 +1,1 @@
+fetch("api-url")=> go to this URL and request data
